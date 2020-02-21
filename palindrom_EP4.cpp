@@ -4,7 +4,7 @@
 //
 //  Created by ebrain on 2020/02/21.
 //  Copyright © 2020 ebrain. All rights reserved.
-//
+// https://projecteuler.net/problem=4
 
 #include <iostream>
 bool pal(int input);
